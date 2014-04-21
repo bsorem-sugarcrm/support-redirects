@@ -1,0 +1,14 @@
+{
+  "name": "support-redirects",
+  "version": "0.0.1",
+  "description": "Create redirects on S3 for support",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bran Sorem <bransorem@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "~2.0.0-rc13"
+  }
+}
